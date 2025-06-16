@@ -19,6 +19,8 @@ function draw() {
     textSize(48);
     textAlign(CENTER, CENTER);
     text("Czas minął", width / 2, height / 2);
+
+    window.location.href='https://kornelia2211.github.io/Scam_6/';
     return;
   }
 
